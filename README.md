@@ -38,6 +38,7 @@ Transform how you work with BIM, CAD, GIS, and 3D tools — using natural langua
 | [rhino-mcp](https://github.com/tanishqbhattad/rhino-mcp) | Rhino 8 + 115 AI tools | 11 | Python + Rhino |
 | [CAD-MCP](https://github.com/daobataotie/CAD-MCP) | General CAD MCP server | 493 | Python |
 | [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad) | AutoCAD + AI | 232 | Python + AutoCAD |
+| [archlang-mcp](https://github.com/ChanMeng666/archlang/tree/main/packages/mcp) | Compile floor plans from declarative `.arch` source to SVG/DXF/PDF, and read a plan back as rooms, areas, adjacency and an access graph | 9 | TypeScript |
 
 ## GIS & Geospatial
 
