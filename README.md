@@ -16,6 +16,7 @@ Transform how you work with BIM, CAD, GIS, and 3D tools — using natural langua
 - [CAD & 3D Modeling](#cad--3d-modeling)
 - [GIS & Geospatial](#gis--geospatial)
 - [Interoperability](#interoperability)
+- [Related Lists](#related-lists)
 
 ---
 
@@ -59,6 +60,12 @@ Transform how you work with BIM, CAD, GIS, and 3D tools — using natural langua
 - [ifcopenshell-mcp](https://github.com/Daviidro/ifcopenshell-mcp) — Query, validate, convert IFC
 - [speckle-mcp](https://github.com/Daviidro/speckle-mcp) — AEC interoperability
 - [bim-agent](https://github.com/Daviidro/bim-agent) — Multi-MCP workflow orchestrator
+
+---
+
+## Related Lists
+
+- [Awesome AECO](https://github.com/osama-ata/Awesome-AECO) — Curated list of 210+ open-source and public tools for Architecture, Engineering, Construction and Operations (BIM, IFC, CAD, Revit, simulation, GIS, cost estimation, and AI/MCP).
 
 ---
 
